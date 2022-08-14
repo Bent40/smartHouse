@@ -60,6 +60,7 @@ body,
 
 .new-room-btn {
   position: relative;
+  bottom: 10%;
   height: 10%;
   width: 5%;
   border-radius: 50%;
